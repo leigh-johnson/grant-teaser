@@ -1,4 +1,4 @@
-Privacy Policy of Grant Labs LLC Grant Labs LLC operates the Grant app, which provides the SERVICE. This page is used to
+Privacy Policy of Data Literate LLC Data Literate LLC operates the Grant app, which provides the SERVICE. This page is used to
 inform website and app users regarding our policies with the collection, use, and disclosure of Personal Information if anyone
 decided to use our Service, the Grant app. If you choose to use our Service, then you agree to the collection and use of
 information in relation with this policy. The Personal Information that we collect are used for providing and improving the
