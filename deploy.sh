@@ -6,7 +6,7 @@ echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 hugo -t hugo-fresh # if using a theme, replace with `hugo -t <YOURTHEME>`
 
 # Go To Public folder
-rm docs/
+rm -rf docs/
 mv public/ docs/
 # Add changes to git.
 git add .
